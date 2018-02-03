@@ -1,15 +1,11 @@
-//out:styles.css
-
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
-
-body{
+body {
   overflow: hidden;
 }
-
-canvas{
+canvas {
   background-color: green;
 }
